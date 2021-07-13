@@ -137,6 +137,7 @@ cleanplot.pca(aravo.pca, scaling = 2)
     
 
     # C - If there are significant relationships between variables, provide mechanistic reasons for how they came about
+      
       # In the Bird's PCA biplot (Scaling 2), we see strong positive correlations
       # between the group of variables: tree species diversity, tree density,   
       # secondary tree cover, herb cover and aspect. This group of variables is 
